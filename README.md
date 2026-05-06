@@ -113,8 +113,7 @@ mvn spring-boot:run
 
 ## 📌 Future Improvements (suggestions)
 
-* Authentication & authorization (JWT)
-* Pagination for large datasets
 * Campaign prioritization rules
 * Cashback expiration policies
+* Global error treatment
 
