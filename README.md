@@ -1,6 +1,6 @@
 # 💰 Cashback Java API
 
-A backend project built in **Java** for managing a complete **cashback system**, including ticket processing, campaign management, and cashback distribution tracking.
+A simple backend project built in **Java** for managing a **cashback system**, including ticket processing, campaign management, and cashback distribution tracking.
 
 This project uses **PostgreSQL** as its primary database.
 
